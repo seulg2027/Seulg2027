@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-square&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-square&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/typescript-2F73BF?style=for-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-1DB3F5?style=for-square&logo=figma&logoColor=white">
   <br/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-square&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-square&logo=MongoDB&logoColor=white">
