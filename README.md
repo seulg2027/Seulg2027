@@ -6,7 +6,8 @@
 
 <h3 align=center>🥕 Teck Stack 🥕</h3>
 <div align=center>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-square&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-square&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/java-007396?style=for-square&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
   <br/>
@@ -16,7 +17,6 @@
   <br/>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-square&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-square&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-square&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-square&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/typescript-2F73BF?style=for-square&logo=typescript&logoColor=white">
   <br/>
