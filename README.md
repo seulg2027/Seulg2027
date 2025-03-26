@@ -17,8 +17,3 @@
 - System architecture optimization for scalability and performance
 
 <br/>
-<div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seulg2027&show_icons=truet)](https://github.com/Seulg2027/github-readme-stats)  
-
-</div>
